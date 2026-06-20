@@ -229,12 +229,3 @@ RideService.completeRide(rideId)
 
 ---
 
-## Author
-
-Airtribe Assignment - Ride Sharing System
-
----
-
-## License
-
-This project is part of the Airtribe assignment series.
